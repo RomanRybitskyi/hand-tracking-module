@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-import time
 import math
 
 # Tip landmark IDs for each finger (thumb to pinky)
